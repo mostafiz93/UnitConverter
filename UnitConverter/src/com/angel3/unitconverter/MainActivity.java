@@ -27,6 +27,8 @@ public class MainActivity extends Activity {
 			{ "Second", "minute", "Hour", "Day", "Month", "Year" },
 			{ "Gallon", "CubicCentimeter" } };
 
+	//dummy comment 
+	
 	private final double co[][][] = {
 			{ { 1, 0.0174532925, 1.111111111 },
 					{ 57.2957795, 1, 63.661977237 }, { .9, 0.0157079632679, 1 } },
