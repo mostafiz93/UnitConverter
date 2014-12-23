@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UnitConverter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="strConversionType">
+        <item >Angle</item>
+        <item >Area</item>
+        <item >Bit-Byte</item>
+        <item >Density</item>
+        <item >Electric Current</item>
+        <item >Energy</item>
+        <item >Force</item>
+        <item >Length</item>
+        <item >Mass</item>
+        <item >Power</item>
+        <item >Pressure</item>
+        <item >Speed</item>
+        <item >Temperature</item>
+        <item >Time</item>
+        <item >Volume</item>
+        
+    </string-array>
+
+</resources>
