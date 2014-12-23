@@ -13,6 +13,8 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
+//check 
+
 public class MainActivity extends Activity {
 
 	private String[] strConversionType;
